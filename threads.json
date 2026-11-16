@@ -1,0 +1,38 @@
+{
+    "bob@example.com": [
+        {
+            "id": "03776f7c-8796-488f-9b0b-37a10dd7f641",
+            "label": "Chat 03776f7c"
+        },
+        {
+            "id": "4d7e1b36-096b-425b-872d-09604b238a29",
+            "label": "Chat 4d7e1b36"
+        },
+        {
+            "id": "f9b36374-e442-46a3-a2a5-57f7f1df4d1c",
+            "label": "Chat f9b36374"
+        },
+        {
+            "id": "793a6db6-a080-4097-9b98-104417c1cdf4",
+            "label": "Chat 793a6db6"
+        }
+    ],
+    "sivaprasad.valluru@gmail.com": [
+        {
+            "id": "28a6947e-c093-4fc0-a6ad-7da84b68d3ed",
+            "label": "Chat 28a6947e"
+        },
+        {
+            "id": "e53dadc7-9c22-43a6-b5be-3565baecbb3c",
+            "label": "Chat e53dadc7"
+        },
+        {
+            "id": "e6795954-a111-4ef8-8ac1-fc5cf0727d4a",
+            "label": "Chat e6795954"
+        },
+        {
+            "id": "f363b2b6-acfa-4dd2-87c0-38b1cdc09f4b",
+            "label": "Chat f363b2b6"
+        }
+    ]
+}
